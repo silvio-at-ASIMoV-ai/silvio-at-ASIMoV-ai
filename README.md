@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Silvestre Pitti
 - 👀 I’m working on a speech recognizer that needs much less data to be trained
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<!--- - 🌱 I’m currently learning ...  --->
+<!--- - 💞️ I’m looking to collaborate on ...  --->
 - 📫 silvio@asimov-ai.com, twitter @asimov_ai
 
 <!---
